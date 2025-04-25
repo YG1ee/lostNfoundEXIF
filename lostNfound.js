@@ -1,3 +1,5 @@
+// 파일 형식 예시: 1745307222866.jpg
+
 import fs from "fs";
 
 const files = fs.readdirSync(".");
